@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "module.h": "c",
+        "kernel.h": "c",
+        "netfilter.h": "c",
+        "time.h": "c",
+        "time_types.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "netlink.h": "c",
+        "retardwall.h": "c",
+        "ip.h": "c",
+        "if_ether.h": "c",
+        "string.h": "c",
+        "param.h": "c"
+    }
+}
