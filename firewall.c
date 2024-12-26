@@ -239,7 +239,6 @@ static void nl_recv_msg(struct sk_buff *skb)
     }
 }
 
-// Rest of the code (init and exit functions) remains the same
 static int __init firewall_init(void)
 {
     struct netlink_kernel_cfg cfg = {
